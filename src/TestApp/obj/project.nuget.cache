@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lU/Lt2FztviJa0PjFoo5HDw+H/RYC9j8epRNvW6ReKyQg51P63oC3pi6zFzR0TZMlE2kvPAmJ2DAikTu9S/UJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\docker-test\\src\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

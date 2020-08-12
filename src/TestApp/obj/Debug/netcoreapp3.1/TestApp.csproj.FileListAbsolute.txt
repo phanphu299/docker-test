@@ -1,0 +1,13 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\docker-test\src\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache

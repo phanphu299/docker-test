@@ -1,0 +1,14 @@
+version: "3.6"
+services:
+    testapicompose:
+        container_name: testapicomposename
+        ports:
+            - 8200:80
+            - 8201:443      
+        image: buildtestapi   
+        restart: always        
+
+    testappcompose:
+        container_name: testappcomposename
+        image: buildtestapp      
+        restart: always  

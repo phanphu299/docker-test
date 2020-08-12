@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "G7koPoOdEO+Dq4RMgIhqMARrhgdD30nhv2hkSFa8aCFMdWGN8f/JTHE9nq/BCHvnVkAfCAMvuOf8MPU1IYIqJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\docker-test\\src\\TestAPI\\TestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
